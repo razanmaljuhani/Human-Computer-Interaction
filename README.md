@@ -1,0 +1,2 @@
+# Human-Computer-Interaction
+The objective of this course is to familiarize students with the skills and concepts of Human-Computer Interaction (HCI), including the understanding of user needs, interface design and prototyping, and interface evaluation. Topics include an introduction to HCI, HCI goals, cognitive and perceptual issues, HCI design, data gathering, data analysis, task description, task analysis, interaction styles, interaction frameworks, prototyping, and evaluation.
